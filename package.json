@@ -1,0 +1,14 @@
+{
+  "name": "colabo-meets-automation",
+  "version": "1.0.0",
+  "description": "Colabo Meets automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhaila Shifa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}
