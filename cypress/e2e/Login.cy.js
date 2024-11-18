@@ -2,7 +2,7 @@ describe('Login', () => {
     it('Login after successful registration', () => {
         //Step 1a: Visiting Signup page
         cy.visit('https://meets.opencolabo.com/sign-in');
-        cy.get('#signup_email').type('suhaila.shifa@teamfriends.co.jp');
+        cy.get('#signup_email').type('saiful.alam@teamfriends.co.jp');
         cy.get('.ant-form-item-control-input-content > .ant-btn').click();
 
         //Step 1b: OTP screen

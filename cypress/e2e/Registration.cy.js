@@ -2,7 +2,7 @@ describe('Registration', () => {
   it('New user registration without invitation', () => {
       //Step 1a: Visiting Signup page
       cy.visit('https://meets.opencolabo.com/sign-up');
-      cy.get('#signup_email').type('apiffany.hasting@allwebemails.com');
+      cy.get('#signup_email').type('winet77908@merotx.com');
       cy.get('#signup_is_signup').check();
       cy.contains('Create Account').click();
 
