@@ -33,7 +33,6 @@ describe('Registration', () => {
       cy.contains('Logout').click();
 
   })
-  
-  
+    
 
 })
