@@ -28,3 +28,8 @@ Ensure you have Cypress installed globally or as a dev dependency in your projec
 ```bash
 git clone git@github.com:suhailashifa/UI-Automation-with-cypress.git
 cd UI-Automation-with-cypress
+
+### Install Dependencies:
+
+```bash
+npm install
