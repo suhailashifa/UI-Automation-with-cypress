@@ -9,9 +9,6 @@ This project contains automated UI tests for the Colabo Meets application using 
 - [Project Structure](#project-structure)
 - [Running Tests](#running-tests)
 - [Test Scenarios](#test-scenarios)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
