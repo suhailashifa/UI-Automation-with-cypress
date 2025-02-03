@@ -38,15 +38,7 @@ npx cypress open
 ```
 
 ## Project Structure
-UI-Automation-with-cypress/
-├── cypress/
-│   ├── fixtures/        # Test data and mock files
-│   ├── integration/     # Test files
-│   ├── plugins/         # Plugins for Cypress
-│   └── support/         # Custom commands and utilities
-├── cypress.config.js    # Cypress configuration file
-├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation
+UI-Automation-with-cypress/ ├── cypress/ │ ├── fixtures/ # Test data and mock files │ ├── integration/ # Test files │ ├── plugins/ # Plugins for Cypress │ └── support/ # Custom commands and utilities ├── cypress.config.js # Cypress configuration file ├── package.json # Project dependencies and scripts └── README.md # Project documentation
 
 ## Running Tests
 
